@@ -33,3 +33,7 @@ var isSquare = function(n){
 	- 8 months c++
 - HtmlAcademy
 	- free courses
+
+## Eglish level
+- [Efset](https://www.efset.org/):
+	-  15 min test - advanced reading and listening
