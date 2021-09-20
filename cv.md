@@ -27,3 +27,9 @@ var isSquare = function(n){
   return false;
 }
 ```
+
+## Education
+- University
+	- 8 months c++
+- HtmlAcademy
+	- free courses
