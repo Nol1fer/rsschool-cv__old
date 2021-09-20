@@ -9,3 +9,7 @@
 - Expirience: none
 - What i want: job
 - Why me? idk
+
+## Skills
+- C++
+- Beginner html, css
